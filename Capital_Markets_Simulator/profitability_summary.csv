@@ -1,0 +1,4 @@
+Country,Interest Rate (%),NPV (USD),IRR (%),Political Risk Score,Risk-Adjusted NPV
+United States,5.5,500000.01,107.41,,
+China,3.1,500000.01,102.69,,
+Japan,-0.1,500000.0,96.4,1.8,277777.77777777775
